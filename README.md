@@ -11,7 +11,10 @@ A set of links of my experience learning react on a real project
   - [So you wanna be a Functional Programmer (part 4)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49#.hzyb743by)
   - [So you wanna be a Functional Programmer (part 5)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a#.qtet85y58)
   - [So you wanna be a Functional Programmer (part 6)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.bkmrbcaoa)
+  - [Arrow Functions](http://exploringjs.com/es6/ch_arrow-functions.html) - ExploringJS
  - Atomic Design
+  - [Atomic Design Book online](http://atomicdesign.bradfrost.com/) - Brad Frost
+  - [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/) - Brad Frost
  - NodeJS (npm)
  - Babel
  - Webpack
@@ -29,7 +32,8 @@ A set of links of my experience learning react on a real project
  - [Redux](http://redux.js.org/) - Redux Ducumentation
 
 ###Some important modules to work on react projects
+ - [React Redux](https://github.com/reactjs/react-redux) - To implement react with redux
  - [React Creator](https://github.com/facebookincubator/create-react-app) - A module to create a bundle of a base react project
  - [React Router](https://github.com/ReactTraining/react-router) - A module to handle routs in a SPA project
- - [Redux Actions](https://github.com/acdlite/redux-actions) - A module to manage the actions inside a redux
+ - [Redux Actions](https://github.com/acdlite/redux-actions) - A module to manage the actions inside a redux application
 
