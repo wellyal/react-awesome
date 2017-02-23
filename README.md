@@ -10,4 +10,4 @@ A set of links of my experience learning react on a real project
 
 ###Introdutions redux
 
-###Some important react modules
+###Some important modules to work on react projects
