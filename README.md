@@ -29,3 +29,4 @@ A set of links of my experience learning react on a real project
  - [Redux](http://redux.js.org/) - Redux Ducumentation
 
 ###Some important modules to work on react projects
+-
