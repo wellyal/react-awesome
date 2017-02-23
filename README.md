@@ -29,4 +29,7 @@ A set of links of my experience learning react on a real project
  - [Redux](http://redux.js.org/) - Redux Ducumentation
 
 ###Some important modules to work on react projects
--
+ - [React Creator](https://github.com/facebookincubator/create-react-app) - A module to create a bundle of a base react project
+ - [React Router](https://github.com/ReactTraining/react-router) - A module to handle routs in a SPA project
+ - [Redux Actions](https://github.com/acdlite/redux-actions) - A module to manage the actions inside a redux
+
