@@ -3,6 +3,7 @@ A set of links of my experience learning react on a real project
 
 ###Initial Context
  - Vanilla Javascript
+  - [Javascript the right way](http://jstherightway.org/)
   - [Javascript30](https://javascript30.com/) - Wes Bos free course of Vanilla JS
  - Ecma6
  - Functional Programming
