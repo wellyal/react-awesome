@@ -20,7 +20,8 @@ A set of links of my experience learning react on a real project
  - Webpack
 
 ###Online Free Courses
- - [React Redux ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6) - Egghead 
+ - [React Redux ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6) - Cory House 
+ - [React courses](https://egghead.io/technologies/react) - Egghead
  
 ###Online Courses
 
