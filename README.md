@@ -1,6 +1,15 @@
 # react-awesome
 A set of links of my experience learning react on a real project
 
+###Initial Context
+ - Vanilla Javascript
+ - Ecma6
+ - Functional Programming
+ - Atomic Design
+ - NodeJS (npm)
+ - Babel
+ - Webpack
+
 ###Online Free Courses
  - [React Redux ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6) - Egghead 
  
