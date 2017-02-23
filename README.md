@@ -25,6 +25,7 @@ A set of links of my experience learning react on a real project
  - [React courses](https://egghead.io/technologies/react) - Egghead
  
 ###Online Courses
+ - [React + Redux: Fundamentos e Duas Apps do ABSOLUTO ZERO](https://www.cod3r.com.br/portal/courses/18?gclid=CKqwm93PptICFUKAkQodW1gLvg) - Leonardo Leitão
 
 ###Introdutions react
 
@@ -32,6 +33,8 @@ A set of links of my experience learning react on a real project
  - [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.wwq75q6a7) - Learn React with chantastic
  - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.eqm0s1ky7) - Dan Abramov 
  - [Redux](http://redux.js.org/) - Redux Ducumentation
+ - [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/) - Brad Westfall
+ - [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros) - 
 
 ###Some important modules to work on react projects
  - [React Redux](https://github.com/reactjs/react-redux) - To implement react with redux
