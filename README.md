@@ -1,13 +1,13 @@
 # react-awesome
 A set of links of my experience learning react on a real project
 
-##Online Free Courses
+###Online Free Courses
  [React Redux ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6) - Egghead 
  
-##Online Courses
+###Online Courses
 
-##Introdutions react
+###Introdutions react
 
-##Introdutions redux
+###Introdutions redux
 
-##Some important react modules
+###Some important react modules
