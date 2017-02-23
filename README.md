@@ -10,8 +10,7 @@ A set of links of my experience learning react on a real project
 
 ###Introdutions redux
  - [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.wwq75q6a7) - Learn React with chantastic
- - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.eqm0s1ky7) - Dan Abramov
+ - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.eqm0s1ky7) - Dan Abramov 
  - [Redux](http://redux.js.org/) - Redux Ducumentation
-(https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.eqm0s1ky7)
 
 ###Some important modules to work on react projects
