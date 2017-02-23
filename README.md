@@ -37,4 +37,6 @@ A set of links of my experience learning react on a real project
  - [React Creator](https://github.com/facebookincubator/create-react-app) - A module to create a bundle of a base react project
  - [React Router](https://github.com/ReactTraining/react-router) - A module to handle routs in a SPA project
  - [Redux Actions](https://github.com/acdlite/redux-actions) - A module to manage the actions inside a redux application
+ - [Material-UI](http://www.material-ui.com) - A Set of React Components that Implement Google's Material Design
+ - [Redux Form](http://redux-form.com) - The best way to manage your form state in Redux
 
