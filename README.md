@@ -6,6 +6,12 @@ A set of links of my experience learning react on a real project
   - [Javascript the right way](http://jstherightway.org/)
   - [Javascript30](https://javascript30.com/) - Wes Bos free course of Vanilla JS
  - Ecma6
+  - [ES6 Features](https://github.com/lukehoban/es6features/blob/master/README.md)
+  - [You don`t know JS ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond#you-dont-know-js-es6--beyond)
+  - [How to Use Classes and Sleep at Night](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4#.jatbadoh1) - Dan Abramov
+  - [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.tomhosj4q) - Eric Elliot
+  - [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.idh85yys5) - Eric Elliot
+  - [Inside the Dev Team Death Spiral](https://medium.com/javascript-scene/inside-the-dev-team-death-spiral-6a7ea255467b#.awz5r90n6) - Eric Elliot
  - Functional Programming
   - [So you wanna be a Functional Programmer (part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.nq3tjj1em) 
   - [So you wanna be a Functional Programmer (part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a#.aaf6gcc05)
