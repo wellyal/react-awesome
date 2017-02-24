@@ -51,4 +51,4 @@ A set of links of my experience learning react on a real project
  - [Material-UI](http://www.material-ui.com) - A Set of React Components that Implement Google's Material Design
  - [Redux Form](http://redux-form.com) - The best way to manage your form state in Redux
  - [React Toolbox](http://react-toolbox.com) - Bootstrap your application with beautiful Material Design Components
-
+ - [JS Coach](https://js.coach/react) - This is an opinionated catalog of open source JS packages
