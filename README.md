@@ -20,6 +20,7 @@ A set of links of my experience learning react on a real project
   - [So you wanna be a Functional Programmer (part 5)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a#.qtet85y58)
   - [So you wanna be a Functional Programmer (part 6)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.bkmrbcaoa)
   - [Arrow Functions](http://exploringjs.com/es6/ch_arrow-functions.html) - ExploringJS
+  - [Vectors, Maps, Set](https://www.infoq.com/presentations/julia-vectors-maps-sets) - Zach Allaun talk
  - Atomic Design
   - [Atomic Design Book online](http://atomicdesign.bradfrost.com/) - Brad Frost
   - [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/) - Brad Frost
