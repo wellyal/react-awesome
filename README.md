@@ -44,6 +44,7 @@ A set of links from my experience learning react on a real project. I personally
  - [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
 
 ###Some important modules to work on react projects
+ - [Awesome Redux](https://github.com/xgrommx/awesome-redux) - Denis Stoyanov
  - [React Redux](https://github.com/reactjs/react-redux) - To implement react with redux
  - [React Creator](https://github.com/facebookincubator/create-react-app) - A module to create a bundle of a base react project
  - [React Router](https://github.com/ReactTraining/react-router) - A module to handle routs in a SPA project
