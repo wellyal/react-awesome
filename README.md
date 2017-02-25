@@ -1,5 +1,5 @@
 # react-awesome
-A set of links of my experience learning react on a real project
+A set of links from my experience learning react on a real project. I personally recommend this 'awesome tutorial' to the people who wanna have a deep understanding on how react and other web technologies/concepts works. That will help you to easily understand no just react or redux but everything involved with the javascript ecossystem and will make you have a brief about what is comming in the future.
 
 ###Initial Context
  - Vanilla Javascript
@@ -33,7 +33,6 @@ A set of links of my experience learning react on a real project
  - [React courses](https://egghead.io/technologies/react) - Egghead
  
 ###Online Courses
- - [React + Redux: Fundamentos e Duas Apps do ABSOLUTO ZERO](https://www.cod3r.com.br/portal/courses/18?gclid=CKqwm93PptICFUKAkQodW1gLvg) - Leonardo Leitão
 
 ###Introdution to react
 
