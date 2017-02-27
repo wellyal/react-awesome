@@ -41,7 +41,7 @@ A set of links from my experience learning react on a real project. I personally
  - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.eqm0s1ky7) - Dan Abramov 
  - [Redux](http://redux.js.org/) - Redux Documentation
  - [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/) - Brad Westfall
- - [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
+ - [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros) - codementor
 
 ###Some important modules to work on react projects
  - [Awesome Redux](https://github.com/xgrommx/awesome-redux) - Denis Stoyanov
