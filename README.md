@@ -39,6 +39,7 @@ A set of links from my experience learning react on a real project. I personally
 ###Introdution to react
  - [React Docs](https://facebook.github.io/react/docs/hello-world.html)
  - [ReactJS Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS) - Mindspace
+ - [ReactJS Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) - Learncode Academy
 
 ###Introdution to redux
  - [ReactJS + Redux Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_) - Mindspace
