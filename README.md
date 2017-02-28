@@ -37,6 +37,7 @@ A set of links from my experience learning react on a real project. I personally
  - [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) - Stephen Grider
 
 ###Introdution to react
+ - [React Docs](https://facebook.github.io/react/docs/hello-world.html)
 
 ###Introdution to redux
  - [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.wwq75q6a7) - Learn React with chantastic
