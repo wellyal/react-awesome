@@ -33,6 +33,8 @@ A set of links from my experience learning react on a real project. I personally
  - [React courses](https://egghead.io/technologies/react) - Egghead
  
 ###Online Courses
+ - [Modern React with Redux](https://www.udemy.com/react-redux/) - Stephen Grider
+ - [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) - Stephen Grider
 
 ###Introdution to react
 
