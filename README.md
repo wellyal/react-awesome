@@ -56,3 +56,4 @@ A set of links from my experience learning react on a real project. I personally
  - [Redux Form](http://redux-form.com) - The best way to manage your form state in Redux
  - [React Toolbox](http://react-toolbox.com) - Bootstrap your application with beautiful Material Design Components
  - [JS Coach](https://js.coach/react) - This is an opinionated catalog of open source JS packages
+ - [Redux Observable](https://redux-observable.js.org/) - Middleware to compose and cancel async actions
