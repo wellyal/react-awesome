@@ -42,6 +42,7 @@ A set of links from my experience learning react on a real project. I personally
 
 ###Introdution to redux
  - [ReactJS + Redux Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_) - Mindspace
+ - [Redux Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) - Learncode Academy
  - [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.wwq75q6a7) - Learn React with chantastic
  - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.eqm0s1ky7) - Dan Abramov 
  - [Redux](http://redux.js.org/) - Redux Documentation
