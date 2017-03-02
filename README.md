@@ -58,6 +58,7 @@ A set of links from my experience learning react on a real project. I personally
  - [React Router](https://github.com/ReactTraining/react-router) - A module to handle routs in a SPA project
  - [Redux Actions](https://github.com/acdlite/redux-actions) - A module to manage the actions inside a redux application
  - [Material-UI](http://www.material-ui.com) - A Set of React Components that Implement Google's Material Design
+ - [React Toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules
  - [React FlexBox Grid](http://roylee0704.github.io/react-flexbox-grid/) - Responsive modifiers enable specifying different column sizes, offsets, alignment and distribution at xs, sm, md & lg viewport widths.
  - [Redux Form](http://redux-form.com) - The best way to manage your form state in Redux
  - [React Toolbox](http://react-toolbox.com) - Bootstrap your application with beautiful Material Design Components
