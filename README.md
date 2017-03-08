@@ -41,6 +41,7 @@ A set of links from my experience learning react on a real project. I personally
  - [ReactJS Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS) - Mindspace
  - [ReactJS Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) - Learncode Academy
  - [React and Redux Cheatsheets](https://egghead.io/react-redux-cheatsheets) - egghead.io
+ - [Internationalization in React](https://medium.freecodecamp.com/internationalization-in-react-7264738274a0#.ze2cn9l65) - Preethi Kasireddy
 
 ###Introduction to redux
  - [ReactJS + Redux Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_) - Mindspace
@@ -67,4 +68,6 @@ A set of links from my experience learning react on a real project. I personally
  - [JS Coach](https://js.coach/react) - This is an opinionated catalog of open source JS packages
  - [RxJS 5](https://github.com/ReactiveX/RxJS) - Set of libraries to compose async and event-based programs using observable collections in JavaScript
  - [Redux Observable](https://redux-observable.js.org/) - Middleware to compose and cancel async actions
+ - [React Intl](https://formatjs.io/react/v1/#formatted-message) - React Components for internationalization
+ - [React Intl Redux](https://github.com/ratson/react-intl-redux) - Redux binding for React Intl
  
