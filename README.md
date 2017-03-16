@@ -1,7 +1,7 @@
 # react-awesome
 A set of links from my experience learning react on a real project. I personally recommend this 'awesome tutorial' to the people who wanna have a deep understanding on how react and other web technologies/concepts works. That will help you to easily understand no just react or redux but everything involved with the javascript ecossystem and will make you have a brief about what is comming in the future.
 
-###Conceptual Aside
+### Conceptual Aside
  - Vanilla Javascript
   - [Javascript the right way](http://jstherightway.org/)
   - [Javascript30](https://javascript30.com/) - Wes Bos free course of Vanilla JS
@@ -28,15 +28,15 @@ A set of links from my experience learning react on a real project. I personally
  - Babel
  - Webpack
 
-###Online Free Courses
+### Online Free Courses
  - [React Redux ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6) - Cory House 
  - [React courses](https://egghead.io/technologies/react) - Egghead
  
-###Online Courses
+### Online Courses
  - [Modern React with Redux](https://www.udemy.com/react-redux/) - Stephen Grider
  - [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) - Stephen Grider
 
-###Introduction to react
+### Introduction to react
  - [React Docs](https://facebook.github.io/react/docs/hello-world.html)
  - [React In-depth: An exploration of UI development](https://developmentarc.gitbooks.io/react-indepth/content/) - James & Aaron
  - [ReactJS Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS) - Mindspace
@@ -44,7 +44,7 @@ A set of links from my experience learning react on a real project. I personally
  - [React and Redux Cheatsheets](https://egghead.io/react-redux-cheatsheets) - egghead.io
  - [Internationalization in React](https://medium.freecodecamp.com/internationalization-in-react-7264738274a0#.ze2cn9l65) - Preethi Kasireddy
 
-###Introduction to redux
+### Introduction to redux
  - [ReactJS + Redux Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_) - Mindspace
  - [Redux Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) - Learncode Academy
  - [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.wwq75q6a7) - Learn React with chantastic
@@ -54,7 +54,7 @@ A set of links from my experience learning react on a real project. I personally
  - [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/) - Brad Westfall
  - [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros) - codementor
 
-###Some important modules to work on react projects
+### Some important modules to work on react projects
  - [Awesome Redux](https://github.com/xgrommx/awesome-redux) - Denis Stoyanov
  - [React Redux](https://github.com/reactjs/react-redux) - To implement react with redux
  - [React Creator](https://github.com/facebookincubator/create-react-app) - A module to create a bundle of a base react project
