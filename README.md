@@ -2,17 +2,20 @@
 A set of links from my experience learning react on a real project. I personally recommend this 'awesome tutorial' to the people who wanna have a deep understanding on how react and other web technologies/concepts works. That will help you to easily understand no just react or redux but everything involved with the javascript ecossystem and will make you have a brief about what is comming in the future.
 
 ### Conceptual Aside
- - Vanilla Javascript
+
+#### Vanilla Javascript
   - [Javascript the right way](http://jstherightway.org/)
   - [Javascript30](https://javascript30.com/) - Wes Bos free course of Vanilla JS
- - Ecma6
+
+#### Ecma6
   - [ES6 Features](https://github.com/lukehoban/es6features/blob/master/README.md)
   - [You don`t know JS ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond#you-dont-know-js-es6--beyond)
   - [How to Use Classes and Sleep at Night](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4#.jatbadoh1) - Dan Abramov
   - [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.tomhosj4q) - Eric Elliot
   - [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.idh85yys5) - Eric Elliot
   - [Inside the Dev Team Death Spiral](https://medium.com/javascript-scene/inside-the-dev-team-death-spiral-6a7ea255467b#.awz5r90n6) - Eric Elliot
- - Functional Programming
+
+#### Functional Programming
   - [So you wanna be a Functional Programmer (part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.nq3tjj1em) 
   - [So you wanna be a Functional Programmer (part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a#.aaf6gcc05)
   - [So you wanna be a Functional Programmer (part 3)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7#.kbrehrs19)
@@ -21,12 +24,14 @@ A set of links from my experience learning react on a real project. I personally
   - [So you wanna be a Functional Programmer (part 6)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.bkmrbcaoa)
   - [Arrow Functions](http://exploringjs.com/es6/ch_arrow-functions.html) - ExploringJS
   - [Vectors, Maps, Set](https://www.infoq.com/presentations/julia-vectors-maps-sets) - Zach Allaun talk
- - Atomic Design
+
+#### Atomic Design
   - [Atomic Design Book online](http://atomicdesign.bradfrost.com/) - Brad Frost
   - [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/) - Brad Frost
- - NodeJS (npm)
- - Babel
- - Webpack
+
+#### NodeJS (npm)
+#### Babel
+#### Webpack
 
 ### Online Free Courses
  - [React Redux ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6) - Cory House 
