@@ -77,4 +77,5 @@ A set of links from my experience learning react on a real project. I personally
  - [Redux Observable](https://redux-observable.js.org/) - Middleware to compose and cancel async actions
  - [React Intl](https://formatjs.io/react/v1/#formatted-message) - React Components for internationalization
  - [React Intl Redux](https://github.com/ratson/react-intl-redux) - Redux binding for React Intl
+ - [Redux Saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
  
