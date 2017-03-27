@@ -25,14 +25,6 @@ A set of links from my experience learning react on a real project. I personally
   - [Arrow Functions](http://exploringjs.com/es6/ch_arrow-functions.html) - ExploringJS
   - [Vectors, Maps, Set](https://www.infoq.com/presentations/julia-vectors-maps-sets) - Zach Allaun talk
 
-#### Atomic Design
-  - [Atomic Design Book online](http://atomicdesign.bradfrost.com/) - Brad Frost
-  - [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/) - Brad Frost
-
-#### NodeJS (npm)
-#### Babel
-#### Webpack
-
 ### Online Free Courses
  - [React Redux ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6) - Cory House 
  - [React courses](https://egghead.io/technologies/react) - Egghead
