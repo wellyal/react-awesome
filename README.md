@@ -73,3 +73,5 @@ A set of links from my experience learning react on a real project. I personally
  - [React Intl Redux](https://github.com/ratson/react-intl-redux) - Redux binding for React Intl
  - [Redux Saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
  
+### React/Redux Testing
+- [React/Redux Links](https://github.com/markerikson/react-redux-links/blob/master/react-redux-testing.md) - Mark Erikson
