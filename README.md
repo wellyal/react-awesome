@@ -34,7 +34,6 @@ A set of links from my experience learning react on a real project. I personally
  - [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) - Stephen Grider
 
 ### Introduction to react
- - [React: do básico ao avançado](https://braziljs.org/blog/react-do-basico-ao-avancado-parte-1/) - Héliton Nordt
  - [React Docs](https://facebook.github.io/react/docs/hello-world.html)
  - [React In-depth: An exploration of UI development](https://developmentarc.gitbooks.io/react-indepth/content/) - James & Aaron
  - [ReactJS Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS) - Mindspace
