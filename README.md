@@ -72,6 +72,7 @@ A set of links from my experience learning react on a real project. I personally
  - [React Intl](https://formatjs.io/react/v1/#formatted-message) - React Components for internationalization
  - [React Intl Redux](https://github.com/ratson/react-intl-redux) - Redux binding for React Intl
  - [Redux Saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
+ - [ARc](https://arc.js.org/) - Atomic React
  
 ### React/Redux Testing
 - [React/Redux Links](https://github.com/markerikson/react-redux-links/blob/master/react-redux-testing.md) - Mark Erikson
