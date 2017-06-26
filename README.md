@@ -41,6 +41,7 @@ A set of links from my experience learning react on a real project. I personally
  - [Patterns and Anti-Patterns React](https://github.com/vasanthk/react-bits) - vasanthk github
  - [React and Redux Cheatsheets](https://egghead.io/react-redux-cheatsheets) - egghead.io
  - [Internationalization in React](https://medium.freecodecamp.com/internationalization-in-react-7264738274a0#.ze2cn9l65) - Preethi Kasireddy
+ - [React Express](http://www.react.express/) - The all-in-one guide to modern React application development
 
 ### Introduction to redux
  - [ReactJS + Redux Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_) - Mindspace
