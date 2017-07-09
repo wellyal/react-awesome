@@ -1,5 +1,5 @@
 # react-awesome
-A set of links from my experience learning react on a real project. I personally recommend this 'awesome tutorial' to the people who wanna have a deep understanding on how react and other web technologies/concepts works. That will help you to easily understand no just react or redux but everything involved with the javascript ecossystem and will make you have a brief about what is comming in the future.
+A set of links from my experience learning react on a real project. I personally recommend this 'awesome tutorial' to the people who want to have a deep understanding on how react and other web technologies/concepts works. That will help you to easily understand no just react or redux but everything involved with the javascript ecossystem and will make you have a brief about what is comming in the future.
 
 ### Conceptual Aside
 
