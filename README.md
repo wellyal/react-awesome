@@ -78,4 +78,4 @@ A set of links from my experience learning react on a real project. I personally
 - [Enzyme](http://airbnb.io/enzyme/) - JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
 - [Jest](https://facebook.github.io/jest/docs/getting-started.html#content) - Facebook's tool to test react components
 - [Chai](http://chaijs.com/) - A BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
-- [Mark Erikson react/redux-tests awesome] - A set of links for react/redux testing from Mark Erikson
+- [Mark Erikson react/redux-tests awesome](https://github.com/markerikson/react-redux-links/blob/master/react-redux-testing.md) - A set of links for react/redux testing from Mark Erikson
