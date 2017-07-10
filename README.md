@@ -54,7 +54,7 @@ A set of links from my experience learning react on a real project. I personally
  - [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros) - codementor
  - [Why use Redux over Facebook Flux?](http://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux/32920459#32920459) - Dan Abramov`s answer on how to use redux over flux
  
-### Some important modules to work on react projects
+### Some important modules to work with react/redux projects
  - [Awesome Redux](https://github.com/xgrommx/awesome-redux) - Denis Stoyanov
  - [React Redux](https://github.com/reactjs/react-redux) - To implement react with redux
  - [React Creator](https://github.com/facebookincubator/create-react-app) - A module to create a bundle of a base react project
